@@ -1,0 +1,5 @@
+Just a bit code that checks if a number is prime.
+Originally, it was intended to be used for project Euler, maybe it will work once.....
+
+Use it if you find it useful once; it is very simple: one function to check if a number is prime (called isPrime).
+And one that extends the list of yet known primes (this one is known as extendPrimes =D)
